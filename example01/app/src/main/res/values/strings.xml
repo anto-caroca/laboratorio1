@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">example01</string>
+    <string name="tv_welcome">Cómo estás?</string>
+    <string name="bv_welcome">Siguiente</string>
+    <string name="bv_back">Volver</string>
+    <string name="checkBox1">bien</string>
+    <string name="checkBox2">mal</string>
+    <string name="checkBox3">más o menos</string>
+    <string name="radioButton1">opción 1</string>
+    <string name="radioButton2">opción 2</string>
+    <string name="text2">Elige una opción</string>
+    <string name="imageView1">star</string>
+    <string name="image2">gata</string>
+</resources>
